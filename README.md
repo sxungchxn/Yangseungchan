@@ -22,7 +22,7 @@
 
 
 ### Languages
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>
   <div align="left">
@@ -41,7 +41,7 @@
 </br>
 
 ### Frontend Library/Framework
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
   <div align="left">
     <img src="https://img.shields.io/badge/-React-48dbfb?style=for-the-badge&logo=react&logoColor=48dbfb&labelColor=282828">
@@ -65,7 +65,7 @@
 </br>
 
 ### Backend Library/Framework
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-NodeJS-6ab04c?style=for-the-badge&logo=node.js&logoColor=6ab04c&labelColor=282828">
@@ -78,7 +78,7 @@
 </br>
 
 ### Devops and others
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Docker-82ccdd?style=for-the-badge&logo=docker&logoColor=82ccdd&labelColor=282828"> 
@@ -92,7 +92,7 @@
 </br>
 
 ### IDEs
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Vscode-54a0ff?style=for-the-badge&logo=visual-studio-code&logoColor=54a0ff&labelColor=282828">
