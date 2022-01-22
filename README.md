@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/-React-48dbfb?style=for-the-badge&logo=react&logoColor=48dbfb&labelColor=282828">
     <img src="https://img.shields.io/badge/-NextJS-2d3436?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828">
     <img src="https://img.shields.io/badge/-Vue-2ed573?style=for-the-badge&logo=vuedotjs&logoColor=2ed573&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Flutter-5352ed?style=for-the-badge&logo=flutter&logoColor=5352ed&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Flutter-17c0eb?style=for-the-badge&logo=flutter&logoColor=17c0eb&labelColor=282828">
     <img src="https://img.shields.io/badge/-jQuery-227093?style=for-the-badge&logo=jquery&logoColor=227093&labelColor=282828">
     <img src="https://img.shields.io/badge/-MaterialUI-0984e3?style=for-the-badge&logo=material-ui&logoColor=0984e3&labelColor=282828">
     <img src="https://img.shields.io/badge/-SemanticUI-33d9b2?style=for-the-badge&logo=SemanticUIReact&logoColor=33d9b2&labelColor=282828">
