@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/-CSS-e67e22?style=for-the-badge&logo=css3&logoColor=e67e22&labelColor=282828">
     <img src="https://img.shields.io/badge/-dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=3670A0&labelColor=282828">
     <img src="https://img.shields.io/badge/-Java-EE5A24?style=for-the-badge&logo=java&logoColor=EE5A24&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Kotlin-12CBC4?style=for-the-badge&logo=kotlin&logoColor=12CBC4&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Kotlin-7d5fff?style=for-the-badge&logo=kotlin&logoColor=7d5fff&labelColor=282828">
   </div>
 </p>
 
@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/badge/-Sass-FDA7DF?style=for-the-badge&logo=sass&logoColor=FDA7DF&labelColor=282828">
     <img src="https://img.shields.io/badge/-EsLint-8e44ad?style=for-the-badge&logo=eslint&logoColor=8e44ad&labelColor=282828">
     <img src="https://img.shields.io/badge/-Prettier-2c3e50?style=for-the-badge&logo=prettier&logoColor=2c3e50&labelColor=282828">
-    
   </div>
 </p>
 
