@@ -56,6 +56,9 @@
     <img src="https://img.shields.io/badge/-Styled Components-ff6b81?style=for-the-badge&logo=styled-components&logoColor=ff6b81&labelColor=282828">
     <img src="https://img.shields.io/badge/-Bootstrap-40407a?style=for-the-badge&logo=bootstrap&logoColor=40407a&labelColor=282828">
     <img src="https://img.shields.io/badge/-Sass-FDA7DF?style=for-the-badge&logo=sass&logoColor=FDA7DF&labelColor=282828">
+    <img src="https://img.shields.io/badge/-EsLint-8e44ad?style=for-the-badge&logo=eslint&logoColor=8e44ad&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Prettier-2c3e50?style=for-the-badge&logo=prettier&logoColor=2c3e50&labelColor=282828">
+    
   </div>
 </p>
 
