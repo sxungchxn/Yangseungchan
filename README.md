@@ -4,7 +4,7 @@
 
 </br>
 
-## Github Stats
+## Github Stats 📊
 <br/>
 
 <p align="left">
@@ -18,7 +18,7 @@
 
 
 
-## Stacks
+## Tech Stacks 🛠
 
 
 ### Languages
