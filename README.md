@@ -27,7 +27,7 @@
 <p>
   <div align="left">
     <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=for-the-badge&logo=javascript&logoColor=f1c40f&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Typescript-3498db?style=for-the-badge&logo=typescript&logoColor=3498db&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=2F71BB&labelColor=282828">
     <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=282828">
     <img src="https://img.shields.io/badge/-c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=3670A0&labelColor=282828">
     <img src="https://img.shields.io/badge/-HTML-2d98da?style=for-the-badge&logo=html5&logoColor=2d98da&labelColor=282828">
