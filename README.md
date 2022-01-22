@@ -13,7 +13,7 @@
 </p>
 <p align="left">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangseungchan&theme=dracula&layout=compact&hide_border=true" />
-  <img width="56.5%" src="https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan's%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=6c5ce7&point=fd79a8" />
+  <img width="56.5%" src="https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan's%20Contribution%20Graph&theme=dracula&bg_color=282A36&hide_border=true&line=6c5ce7&point=fd79a8" />
 </p>
 
 
@@ -44,7 +44,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
   <div align="left">
-    <img src="https://img.shields.io/badge/-React-4b7bec?style=for-the-badge&logo=react&logoColor=4b7bec&labelColor=282828">
+    <img src="https://img.shields.io/badge/-React-48dbfb?style=for-the-badge&logo=react&logoColor=48dbfb&labelColor=282828">
     <img src="https://img.shields.io/badge/-NextJS-2d3436?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828">
     <img src="https://img.shields.io/badge/-Vue-2ed573?style=for-the-badge&logo=vuedotjs&logoColor=2ed573&labelColor=282828">
     <img src="https://img.shields.io/badge/-Flutter-5352ed?style=for-the-badge&logo=flutter&logoColor=5352ed&labelColor=282828">
