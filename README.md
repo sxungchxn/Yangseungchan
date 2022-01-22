@@ -74,7 +74,7 @@
 
 </br>
 
-### Others
+### Devops and others
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
 <div align="left">
@@ -85,6 +85,19 @@
   <img src="https://img.shields.io/badge/-Selenium-4cd137?style=for-the-badge&logo=selenium&logoColor=4cd137&labelColor=282828"> 
 </div>
 </p>
+
+</br>
+
+### IDEs
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p>
+<div align="left">
+  <img src="https://img.shields.io/badge/-Vscode-54a0ff?style=for-the-badge&logo=visual-studio-code&logoColor=54a0ff&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Pycharm-b8e994?style=for-the-badge&logo=pycharm&logoColor=b8e994&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-Webstorm-1B9CFC?style=for-the-badge&logo=webstorm&logoColor=1B9CFC&labelColor=282828"> 
+</div>
+</p>
+
 
 </br>
 </br>
