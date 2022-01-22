@@ -5,20 +5,24 @@
 </br>
 
 ## Github Stats
-
 <br/>
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Yangseungchan&show_icons=true&theme=dracula&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yangseungchan&theme=dracula&hide_border=true" />
 </p>
-<br>
+<p align="left">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangseungchan&theme=dracula&layout=compact&hide_border=true" />
+  <img width="56.5%" src="https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan's%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=6c5ce7&point=fd79a8" />
+</p>
 
-[![Yangseungchan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan%20Trips's%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=6c5ce7&point=fd79a8)](https://abhigyantrips.dev)
+
 
 ## Stacks
 
 
 ### Languages
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p>
   <div align="left">
@@ -37,7 +41,7 @@
 </br>
 
 ### Frontend Library/Framework
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
   <div align="left">
     <img src="https://img.shields.io/badge/-React-4b7bec?style=for-the-badge&logo=react&logoColor=4b7bec&labelColor=282828">
@@ -58,7 +62,7 @@
 </br>
 
 ### Backend Library/Framework
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-NodeJS-6ab04c?style=for-the-badge&logo=node.js&logoColor=6ab04c&labelColor=282828">
@@ -71,7 +75,7 @@
 </br>
 
 ### Others
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Docker-82ccdd?style=for-the-badge&logo=docker&logoColor=82ccdd&labelColor=282828"> 
