@@ -21,40 +21,27 @@
 ## Tech Stacks 🛠
 
 
-### Languages
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Major Languages stacks
 
 <p>
   <div align="left">
     <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=for-the-badge&logo=javascript&logoColor=f1c40f&labelColor=282828">
     <img src="https://img.shields.io/badge/-Typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=2F71BB&labelColor=282828">
     <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=282828">
-    <img src="https://img.shields.io/badge/-c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=3670A0&labelColor=282828">
-    <img src="https://img.shields.io/badge/-HTML-2d98da?style=for-the-badge&logo=html5&logoColor=2d98da&labelColor=282828">
-    <img src="https://img.shields.io/badge/-CSS-e67e22?style=for-the-badge&logo=css3&logoColor=e67e22&labelColor=282828">
-    <img src="https://img.shields.io/badge/-dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=3670A0&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Java-EE5A24?style=for-the-badge&logo=java&logoColor=EE5A24&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Kotlin-7d5fff?style=for-the-badge&logo=kotlin&logoColor=7d5fff&labelColor=282828">
   </div>
 </p>
 
 </br>
 
-### Frontend Library/Framework
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Major Library/Framework stacks
+
 <p>
   <div align="left">
     <img src="https://img.shields.io/badge/-React-48dbfb?style=for-the-badge&logo=react&logoColor=48dbfb&labelColor=282828">
     <img src="https://img.shields.io/badge/-NextJS-2d3436?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Vue-2ed573?style=for-the-badge&logo=vuedotjs&logoColor=2ed573&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Flutter-17c0eb?style=for-the-badge&logo=flutter&logoColor=17c0eb&labelColor=282828">
-    <img src="https://img.shields.io/badge/-jQuery-227093?style=for-the-badge&logo=jquery&logoColor=227093&labelColor=282828">
-    <img src="https://img.shields.io/badge/-MaterialUI-0984e3?style=for-the-badge&logo=material-ui&logoColor=0984e3&labelColor=282828">
-    <img src="https://img.shields.io/badge/-SemanticUI-33d9b2?style=for-the-badge&logo=SemanticUIReact&logoColor=33d9b2&labelColor=282828">
-    <img src="https://img.shields.io/badge/-React Router-e55039?style=for-the-badge&logo=react-router&logoColor=e55039&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Gatsby-40407a?style=for-the-badge&logo=gatsby&logoColor=40407a&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Emotion-db7093?style=for-the-badge&logoColor=db7093&labelColor=282828">
+    <img src="https://img.shields.io/badge/-MaterialUI-0984e3?style=for-the-badge&logo=mui&logoColor=0984e3&labelColor=282828">
     <img src="https://img.shields.io/badge/-Styled Components-ff6b81?style=for-the-badge&logo=styled-components&logoColor=ff6b81&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Bootstrap-40407a?style=for-the-badge&logo=bootstrap&logoColor=40407a&labelColor=282828">
     <img src="https://img.shields.io/badge/-Sass-FDA7DF?style=for-the-badge&logo=sass&logoColor=FDA7DF&labelColor=282828">
     <img src="https://img.shields.io/badge/-EsLint-8e44ad?style=for-the-badge&logo=eslint&logoColor=8e44ad&labelColor=282828">
     <img src="https://img.shields.io/badge/-Prettier-2c3e50?style=for-the-badge&logo=prettier&logoColor=2c3e50&labelColor=282828">
@@ -63,21 +50,8 @@
 
 </br>
 
-### Backend Library/Framework
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>
-<div align="left">
-  <img src="https://img.shields.io/badge/-NodeJS-6ab04c?style=for-the-badge&logo=node.js&logoColor=6ab04c&labelColor=282828">
-  <img src="https://img.shields.io/badge/-ExpressJS-FFC312?style=for-the-badge&logo=express&logoColor=FFC312&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Django-006266?style=for-the-badge&logo=django&logoColor=006266&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Flask-1e272e?style=for-the-badge&logo=flask&logoColor=white&labelColor=282828">
-</div>
-</p>
 
-</br>
-
-### Devops and others
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Interesting tech stacks
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Docker-82ccdd?style=for-the-badge&logo=docker&logoColor=82ccdd&labelColor=282828"> 
@@ -91,7 +65,7 @@
 </br>
 
 ### IDEs
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Vscode-54a0ff?style=for-the-badge&logo=visual-studio-code&logoColor=54a0ff&labelColor=282828">
@@ -107,5 +81,4 @@
 ## Baekjoon
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uvzone)](https://solved.ac/uvzone)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uvzone)](https://solved.ac/uvzone)
