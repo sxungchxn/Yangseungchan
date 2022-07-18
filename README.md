@@ -29,19 +29,19 @@
 ## Tech Stacks 🛠
 
 
-### Major Languages stacks
+### Favorite Programming Languages
 
 <p>
   <div align="left">
-    <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=for-the-badge&logo=javascript&logoColor=f1c40f&labelColor=282828">
     <img src="https://img.shields.io/badge/-Typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=2F71BB&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=for-the-badge&logo=javascript&logoColor=f1c40f&labelColor=282828">
     <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=282828">
   </div>
 </p>
 
 </br>
 
-### Major Library/Framework stacks
+### Favorite Library/Framework stacks
 
 <p>
   <div align="left">
@@ -59,7 +59,7 @@
 </br>
 
 
-### Interesting tech stacks
+### Just experienced tech stacks
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Docker-82ccdd?style=for-the-badge&logo=docker&logoColor=82ccdd&labelColor=282828"> 
@@ -72,13 +72,16 @@
 
 </br>
 
-### IDEs
+### Favorite and using IDEs and Tools
 
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Vscode-54a0ff?style=for-the-badge&logo=visual-studio-code&logoColor=54a0ff&labelColor=282828">
   <img src="https://img.shields.io/badge/-Pycharm-b8e994?style=for-the-badge&logo=pycharm&logoColor=b8e994&labelColor=282828"> 
-  <img src="https://img.shields.io/badge/-Webstorm-1B9CFC?style=for-the-badge&logo=webstorm&logoColor=1B9CFC&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-Webstorm-1B9CFC?style=for-the-badge&logo=webstorm&logoColor=1B9CFC&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=4A154B&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=FC6D26&labelColor=282828">
 </div>
 </p>
 
