@@ -1,4 +1,4 @@
-# 😜
+## 😜 Yangseungchan
 
 
 <div>
@@ -13,19 +13,6 @@
 </div>
 
 </br>
-
-## Github Stats 📊
-<br/>
-
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Yangseungchan&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yangseungchan&theme=dracula&hide_border=true" />
-</p>
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yangseungchan&show_icons=true&theme=dracula&layout=compact&hide_border=true&langs_count=8"></img>
-  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan's%20Contribution%20Graph&theme=dracula&bg_color=282A36&hide_border=true&line=6c5ce7&point=fd79a8" />
-</p>
-
 
 ## Tech Stacks 🛠
 
@@ -90,7 +77,19 @@
 
 
 </br>
-</br>
+
+## Github Stats 📊
+<br/>
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Yangseungchan&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yangseungchan&theme=dracula&hide_border=true" />
+</p>
+<p align="left">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yangseungchan&show_icons=true&theme=dracula&layout=compact&hide_border=true&langs_count=8"></img>
+  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan's%20Contribution%20Graph&theme=dracula&bg_color=282A36&hide_border=true&line=6c5ce7&point=fd79a8" />
+</p>
+
 
 ## Baekjoon
 
