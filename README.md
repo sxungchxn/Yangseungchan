@@ -14,15 +14,13 @@
 
 </br>
 
-- <div><a href="https://boostcamp.connect.or.kr/" style="display:flex;align-items:center"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ )</div>
-
-- <a href="https://9oormthon.goorm.io/">☁️</a> 2022년 9oormthon 1회 (2022.8)
-
-- <div><a href="https://scg.skku.ac.kr"><img src="https://scg.skku.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6f1db418.png&w=3840&q=100" width="22px" height="22px" style="vertical-align: bottom"></a> SCG 25기 (2021.3 ~ )</div>
-
-<div></div>
-
-- <div><a href="https://cs.skku.edu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Sungkyunkwan_University_seal.svg/300px-Sungkyunkwan_University_seal.svg.png" width="20px" height="22px" style="vertical-align: bottom"></a>  성균관대학교 소프트웨어학과</div>
+<div><a href="https://boostcamp.connect.or.kr/" style="display:flex;align-items:center"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ )</div>
+</br>
+<div><a href="https://9oormthon.goorm.io/">☁️</a> 2022년 9oormthon 1회 (2022.8)</div>
+</br>
+<div><a href="https://scg.skku.ac.kr"><img src="https://scg.skku.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6f1db418.png&w=3840&q=100" width="22px" height="22px" style="vertical-align: bottom"></a> SCG 25기 (2021.3 ~ )</div>
+</br>
+<div><a href="https://cs.skku.edu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Sungkyunkwan_University_seal.svg/300px-Sungkyunkwan_University_seal.svg.png" width="20px" height="22px" style="vertical-align: bottom"></a>  성균관대학교 소프트웨어학과</div>
 
 
 
