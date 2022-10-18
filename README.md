@@ -1,5 +1,6 @@
 ## 😜 Yangseungchan
 
+
 <div>
 <a href="https://wakatime.com/@0782b9a8-a3ed-4edb-992b-d9b01b74b593"><img src="https://wakatime.com/badge/user/0782b9a8-a3ed-4edb-992b-d9b01b74b593.svg" alt="Total time coded since Jul 31 2022" /></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangseungchan&count_bg=%23A29BFE&title_bg=%236C5CE7&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/>
@@ -13,7 +14,7 @@
 
 </br>
 
-- <div><a href="https://boostcamp.connect.or.kr/"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ )</div>
+- <div><a href="https://boostcamp.connect.or.kr/" style="display:flex;align-items:center"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ )</div>
 
 - <a href="https://9oormthon.goorm.io/">☁️</a> 2022년 9oormthon 1회 (2022.8)
 
@@ -21,7 +22,7 @@
 
 <div></div>
 
-- <div><a href="https://cs.skku.edu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Sungkyunkwan_University_seal.svg/300px-Sungkyunkwan_University_seal.svg.png" width="20px" height="22px" style="vertical-align: bottom"></a> 성균관대학교 소프트웨어학과</div>
+- <div><a href="https://cs.skku.edu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Sungkyunkwan_University_seal.svg/300px-Sungkyunkwan_University_seal.svg.png" width="20px" height="22px" style="vertical-align: bottom"></a>  성균관대학교 소프트웨어학과</div>
 
 
 
