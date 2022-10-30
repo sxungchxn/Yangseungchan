@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-seungchan__y-20C997?style=flat&logo=velog&logoColor=20c997&labelColor=282828">
   </a>
   <a href="https://realdeveloper.pro/yangseungchan">
-     <img src="https://img.shields.io/badge/-Portfolio-512BD4?style=flat&logo=About.me&logoColor=512BD4&labelColor=282828">
+     <img src="https://img.shields.io/badge/-Resume-512BD4?style=flat&logo=About.me&logoColor=512BD4&labelColor=282828">
   </a>
 </div>
 
