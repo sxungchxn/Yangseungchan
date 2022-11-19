@@ -61,19 +61,6 @@
 </br>
 
 
-### Just experienced tech stacks
-<p>
-<div align="left">
-  <img src="https://img.shields.io/badge/-Docker-82ccdd?style=for-the-badge&logo=docker&logoColor=82ccdd&labelColor=282828"> 
-  <img src="https://img.shields.io/badge/-Celery-b8e994?style=for-the-badge&logo=celery&logoColor=b8e994&labelColor=282828">
-  <img src="https://img.shields.io/badge/-RabbitMQ-e58e26?style=for-the-badge&logo=rabbitmq&logoColor=e58e26&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Scrapy-badc58?style=for-the-badge&logo=scrapy&logoColor=badc58&labelColor=282828"> 
-  <img src="https://img.shields.io/badge/-Selenium-4cd137?style=for-the-badge&logo=selenium&logoColor=4cd137&labelColor=282828"> 
-</div>
-</p>
-
-</br>
-
 ### Favorite and using IDEs and Tools
 
 <p>
