@@ -61,7 +61,7 @@
 </br>
 
 
-### Favorite and using IDEs and Tools
+### Collaboaration tools and IDEs
 
 <p>
 <div align="left">
