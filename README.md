@@ -48,11 +48,12 @@
   <div align="left" style="display: flex;gap: 16px">
     <img src="https://img.shields.io/badge/-React-48dbfb?style=for-the-badge&logo=react&logoColor=48dbfb&labelColor=282828">
     <img src="https://img.shields.io/badge/-NextJS-2d3436?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Emotion-db7093?style=for-the-badge&logo=styled-components&logoColor=db7093&labelColor=282828">
-    <img src="https://img.shields.io/badge/-MaterialUI-0984e3?style=for-the-badge&logo=mui&logoColor=0984e3&labelColor=282828">
+    <img src="https://img.shields.io/badge/-React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=FF4154&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Emotion-db7093?style=for-the-badge&logoColor=db7093&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Mantine-339AF0?style=for-the-badge&logo=&logoColor=339AF0&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=FF4785&labelColor=282828">
     <img src="https://img.shields.io/badge/-Styled Components-ff6b81?style=for-the-badge&logo=styled-components&logoColor=ff6b81&labelColor=282828">
     <img src="https://img.shields.io/badge/-Sass-FDA7DF?style=for-the-badge&logo=sass&logoColor=FDA7DF&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Mantine-339AF0?style=for-the-badge&logo=&logoColor=339AF0&labelColor=282828">
     <img src="https://img.shields.io/badge/-EsLint-8e44ad?style=for-the-badge&logo=eslint&logoColor=8e44ad&labelColor=282828">
     <img src="https://img.shields.io/badge/-Prettier-2c3e50?style=for-the-badge&logo=prettier&logoColor=2c3e50&labelColor=282828">
   </div>
