@@ -14,7 +14,7 @@
 
 </br>
 
-<div><a href="https://boostcamp.connect.or.kr/" style="display:flex;align-items:center"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ 2022.12)</div>
+<div><a href="https://boostcamp.connect.or.kr/" style="display:flex;align-items:center"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 커넥트재단 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ 2022.12)</div>
 </br>
 <div><a href="https://9oormthon.goorm.io/">☁️</a> 2022년 9oormthon 1회 (2022.8)</div>
 </br>
