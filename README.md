@@ -1,5 +1,4 @@
-## 😜 Yangseungchan
-
+## 📄 About me
 
 <div>
 <a href="https://velog.io/@seungchan__y">
@@ -12,24 +11,12 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangseungchan&count_bg=%23A29BFE&title_bg=%236C5CE7&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/>
 </div>
 
-</br>
-
-<div><a href="https://boostcamp.connect.or.kr/" style="display:flex;align-items:center"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1665901411/noticon/rs32cagsxo9a8j6y3uja.png" width="22px" height="22px" style="vertical-align: bottom;"></a> 네이버 커넥트재단 부스트캠프 7기 챌린지 / 멤버십 (2022.6 ~ 2022.12)</div>
-</br>
-<div><a href="https://9oormthon.goorm.io/">☁️</a> 2022년 9oormthon 1회 (2022.8)</div>
-</br>
-<div><a href="https://scg.skku.ac.kr"><img src="https://scg.skku.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6f1db418.png&w=3840&q=100" width="22px" height="22px" style="vertical-align: bottom"></a> SCG 25기 (2021.3 ~ )</div>
-</br>
-<div><a href="https://cs.skku.edu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Sungkyunkwan_University_seal.svg/300px-Sungkyunkwan_University_seal.svg.png" width="20px" height="22px" style="vertical-align: bottom"></a>  성균관대학교 소프트웨어학과</div>
-
-
-
-</br>
+<br/>
 
 ## Tech Stacks 🛠
 
 
-### Favorite Programming Languages
+### Programming Languages
 
 <p>
   <div align="left">
@@ -41,7 +28,7 @@
 
 </br>
 
-### Favorite Library/Framework stacks
+### Library/Framework
 
 
 <p>
@@ -87,7 +74,6 @@
 </p>
 <p align="left">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yangseungchan&show_icons=true&theme=dracula&layout=compact&hide_border=true&langs_count=8"></img>
-  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Yangseungchan&custom_title=Yangseungchan's%20Contribution%20Graph&theme=dracula&bg_color=282A36&hide_border=true&line=6c5ce7&point=fd79a8" />
 </p>
 
 
