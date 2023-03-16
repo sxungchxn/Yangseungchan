@@ -4,7 +4,7 @@
 <a href="https://velog.io/@seungchan__y">
    <img src="https://img.shields.io/badge/-seungchan__y-20C997?style=flat&logo=velog&logoColor=20c997&labelColor=282828">
 </a>
-<a href="https://drive.google.com/file/d/1HbAQW1hkFr8-TO8d8TUIZlx7Aqm-GgV9/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1B7l6A1uTxnKZ5_iFFGN7ZrRBfUJaC8Cp/view?usp=sharing">
    <img src="https://img.shields.io/badge/-Resume-018EF5?style=flat&logo=readme&logoColor=018EF5&labelColor=282828">
 </a>
 <a href="https://wakatime.com/@0782b9a8-a3ed-4edb-992b-d9b01b74b593"><img src="https://wakatime.com/badge/user/0782b9a8-a3ed-4edb-992b-d9b01b74b593.svg" alt="Total time coded since Jul 31 2022" /></a>
